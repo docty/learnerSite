@@ -1,0 +1,32 @@
+.holder{
+	border-left:7px solid #e4bb7e;
+	border-right:7px solid #e4bb7e;
+	background-color: #d8e1be;
+	padding: 10px 10px 15px 10px;
+	margin-bottom: 20px;
+	border-radius:  0 15px 0 15px;
+	box-shadow: #523a15 1px 5px
+
+}
+
+.holder > h4 {
+	background-color: #5b603a;
+	color: white;
+	padding: 7px;
+}
+
+.holder-message{
+	margin-top:10px;
+	background-color: #f8f9f3;
+	font-family: ABeeZee; 
+	font-size: 18px; 
+	padding:7px;
+	margin-bottom: 10px;
+
+}
+
+.holder-image{
+	width: 100%; 
+	max-height: 25%; 
+	margin-top:15px; 
+}
